@@ -1,11 +1,11 @@
 @font-face{
     font-family: myFont;
-    src: url('./fonts/ SIMONSON\ \ PROXIMA\ NOVA\ EXTRABOLD\ ITALIC.OTF');
+    src: url('../fonts/ SIMONSON\ \ PROXIMA\ NOVA\ EXTRABOLD\ ITALIC.OTF');
 }
 
 @font-face {
     font-family: MyFonts;
-    src: url('./fonts/GOOD\ TIMES\ RG.OTF');
+    src: url('../fonts/GOOD\ TIMES\ RG.OTF');
 }
 
 
@@ -19,7 +19,7 @@ html {
 }
 
 #banner{
-    background: url('./Key-Visuals/BEXCS_Border.jpg');
+    background: url('../Key-Visuals/BEXCS_Border.jpg');
     background-size: cover;
     background-position: center;
     height: 100vh;
