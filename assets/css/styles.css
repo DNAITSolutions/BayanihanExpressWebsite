@@ -551,7 +551,6 @@ button:hover {
         position: absolute;
         width: 85%; /* Slightly wider on smaller screens */
         padding: 10px; /* Adjust padding for smaller screens */
-        z-index: 1;
         margin: auto;
         
         top: 15%; /* Keep position consistent */
