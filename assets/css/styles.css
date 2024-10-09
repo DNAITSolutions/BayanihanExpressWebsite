@@ -522,7 +522,7 @@ footer {
     transform: translateY(-50%); /* Adjust position to truly center */
 }
 
-input[type="text"] {
+#trackingNumber {
     width: 60%;
     padding: 10px;
     margin-right: 20px;
