@@ -1027,9 +1027,6 @@ button:hover {
         height: 55vh;
      }
 
-     #banner{
-        height: 40vh;
-    }
 }
 
 @media only screen and (max-width: 375px) and (max-height: 667px) {
