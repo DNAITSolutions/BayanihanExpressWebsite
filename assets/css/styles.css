@@ -870,6 +870,10 @@ button:hover {
     height: 100vh;
 }
 
+/** Tracking pop-up **/
+
+
+
 
 /* Optional: Media query for further adjustments */
 @media (max-width: 770px) {
@@ -1028,6 +1032,8 @@ button:hover {
      }
 
 }
+
+
 
 @media only screen and (max-width: 375px) and (max-height: 667px) {
     /* Add your styles here */
